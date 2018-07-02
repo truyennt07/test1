@@ -1,5 +1,5 @@
-#include <stdio.h>
- addClass
+#include <stdio.h
+addClass
 int main()
 {
   printf("Hello world\n");
