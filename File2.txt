@@ -8,4 +8,3 @@ int main()
 
 "fpt software" "main" "class" "print" "get"
 att
-hcm-proxy
