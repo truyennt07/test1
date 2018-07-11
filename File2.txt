@@ -6,3 +6,5 @@ int main()
   return 0;
 }
 
+"fpt software" "main" "class" "print" "get"
+att
